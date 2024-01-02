@@ -4,7 +4,7 @@ go 1.19
 
 require (
 	github.com/Songmu/retry v0.1.0
-	github.com/google/go-github/v55 v55.0.0
+	github.com/google/go-github/v57 v57.0.0
 	github.com/hashicorp/go-version v1.6.0
 	github.com/mattn/go-colorable v0.1.13
 	github.com/mitchellh/colorstring v0.0.0-20190213212951-d06e56a500db
